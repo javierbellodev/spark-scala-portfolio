@@ -1,0 +1,602 @@
+[
+	{
+		"ProductID" : 782,
+		"product_name" : "Mountain-200 Black, 38",
+		"total_quantity_sold" : 2977,
+		"total_revenue" : 4400592.800400
+	},
+	{
+		"ProductID" : 783,
+		"product_name" : "Mountain-200 Black, 42",
+		"total_quantity_sold" : 2664,
+		"total_revenue" : 4009494.761841
+	},
+	{
+		"ProductID" : 779,
+		"product_name" : "Mountain-200 Silver, 38",
+		"total_quantity_sold" : 2394,
+		"total_revenue" : 3693678.025272
+	},
+	{
+		"ProductID" : 780,
+		"product_name" : "Mountain-200 Silver, 42",
+		"total_quantity_sold" : 2234,
+		"total_revenue" : 3438478.860423
+	},
+	{
+		"ProductID" : 781,
+		"product_name" : "Mountain-200 Silver, 46",
+		"total_quantity_sold" : 2216,
+		"total_revenue" : 3434256.941928
+	},
+	{
+		"ProductID" : 784,
+		"product_name" : "Mountain-200 Black, 46",
+		"total_quantity_sold" : 2111,
+		"total_revenue" : 3309673.216908
+	},
+	{
+		"ProductID" : 793,
+		"product_name" : "Road-250 Black, 44",
+		"total_quantity_sold" : 1642,
+		"total_revenue" : 2516857.314918
+	},
+	{
+		"ProductID" : 794,
+		"product_name" : "Road-250 Black, 48",
+		"total_quantity_sold" : 1498,
+		"total_revenue" : 2347655.953454
+	},
+	{
+		"ProductID" : 795,
+		"product_name" : "Road-250 Black, 52",
+		"total_quantity_sold" : 1245,
+		"total_revenue" : 2012447.775000
+	},
+	{
+		"ProductID" : 753,
+		"product_name" : "Road-150 Red, 56",
+		"total_quantity_sold" : 664,
+		"total_revenue" : 1847818.628000
+	},
+	{
+		"ProductID" : 976,
+		"product_name" : "Road-350-W Yellow, 48",
+		"total_quantity_sold" : 1622,
+		"total_revenue" : 1774883.557085
+	},
+	{
+		"ProductID" : 749,
+		"product_name" : "Road-150 Red, 62",
+		"total_quantity_sold" : 600,
+		"total_revenue" : 1769096.688000
+	},
+	{
+		"ProductID" : 969,
+		"product_name" : "Touring-1000 Blue, 60",
+		"total_quantity_sold" : 1120,
+		"total_revenue" : 1721242.514355
+	},
+	{
+		"ProductID" : 973,
+		"product_name" : "Road-350-W Yellow, 40",
+		"total_quantity_sold" : 1477,
+		"total_revenue" : 1657198.182549
+	},
+	{
+		"ProductID" : 792,
+		"product_name" : "Road-250 Red, 58",
+		"total_quantity_sold" : 946,
+		"total_revenue" : 1587008.182500
+	},
+	{
+		"ProductID" : 966,
+		"product_name" : "Touring-1000 Blue, 46",
+		"total_quantity_sold" : 1002,
+		"total_revenue" : 1586953.573023
+	},
+	{
+		"ProductID" : 751,
+		"product_name" : "Road-150 Red, 48",
+		"total_quantity_sold" : 493,
+		"total_revenue" : 1540803.062000
+	},
+	{
+		"ProductID" : 957,
+		"product_name" : "Touring-1000 Yellow, 60",
+		"total_quantity_sold" : 1114,
+		"total_revenue" : 1518133.101147
+	},
+	{
+		"ProductID" : 796,
+		"product_name" : "Road-250 Black, 58",
+		"total_quantity_sold" : 910,
+		"total_revenue" : 1506377.632500
+	},
+	{
+		"ProductID" : 789,
+		"product_name" : "Road-250 Red, 44",
+		"total_quantity_sold" : 895,
+		"total_revenue" : 1448122.478985
+	},
+	{
+		"ProductID" : 954,
+		"product_name" : "Touring-1000 Yellow, 46",
+		"total_quantity_sold" : 1005,
+		"total_revenue" : 1426372.869324
+	},
+	{
+		"ProductID" : 752,
+		"product_name" : "Road-150 Red, 52",
+		"total_quantity_sold" : 458,
+		"total_revenue" : 1415563.612000
+	},
+	{
+		"ProductID" : 777,
+		"product_name" : "Mountain-100 Black, 44",
+		"total_quantity_sold" : 678,
+		"total_revenue" : 1365852.378018
+	},
+	{
+		"ProductID" : 790,
+		"product_name" : "Road-250 Red, 48",
+		"total_quantity_sold" : 812,
+		"total_revenue" : 1348759.497540
+	},
+	{
+		"ProductID" : 750,
+		"product_name" : "Road-150 Red, 44",
+		"total_quantity_sold" : 437,
+		"total_revenue" : 1340419.942000
+	},
+	{
+		"ProductID" : 775,
+		"product_name" : "Mountain-100 Black, 38",
+		"total_quantity_sold" : 682,
+		"total_revenue" : 1339997.254626
+	},
+	{
+		"ProductID" : 771,
+		"product_name" : "Mountain-100 Silver, 38",
+		"total_quantity_sold" : 642,
+		"total_revenue" : 1291868.700375
+	},
+	{
+		"ProductID" : 776,
+		"product_name" : "Mountain-100 Black, 42",
+		"total_quantity_sold" : 634,
+		"total_revenue" : 1254722.732292
+	},
+	{
+		"ProductID" : 778,
+		"product_name" : "Mountain-100 Black, 48",
+		"total_quantity_sold" : 616,
+		"total_revenue" : 1234276.030375
+	},
+	{
+		"ProductID" : 801,
+		"product_name" : "Road-550-W Yellow, 48",
+		"total_quantity_sold" : 1763,
+		"total_revenue" : 1233938.877660
+	},
+	{
+		"ProductID" : 797,
+		"product_name" : "Road-550-W Yellow, 38",
+		"total_quantity_sold" : 1744,
+		"total_revenue" : 1227910.080860
+	},
+	{
+		"ProductID" : 773,
+		"product_name" : "Mountain-100 Silver, 44",
+		"total_quantity_sold" : 601,
+		"total_revenue" : 1217210.359959
+	},
+	{
+		"ProductID" : 772,
+		"product_name" : "Mountain-100 Silver, 42",
+		"total_quantity_sold" : 593,
+		"total_revenue" : 1186494.850299
+	},
+	{
+		"ProductID" : 974,
+		"product_name" : "Road-350-W Yellow, 42",
+		"total_quantity_sold" : 944,
+		"total_revenue" : 1120066.364309
+	},
+	{
+		"ProductID" : 967,
+		"product_name" : "Touring-1000 Blue, 50",
+		"total_quantity_sold" : 649,
+		"total_revenue" : 1071401.058000
+	},
+	{
+		"ProductID" : 798,
+		"product_name" : "Road-550-W Yellow, 40",
+		"total_quantity_sold" : 1500,
+		"total_revenue" : 1071291.781192
+	},
+	{
+		"ProductID" : 791,
+		"product_name" : "Road-250 Red, 52",
+		"total_quantity_sold" : 639,
+		"total_revenue" : 1066766.610000
+	},
+	{
+		"ProductID" : 770,
+		"product_name" : "Road-650 Black, 52",
+		"total_quantity_sold" : 2270,
+		"total_revenue" : 1042909.778030
+	},
+	{
+		"ProductID" : 774,
+		"product_name" : "Mountain-100 Silver, 48",
+		"total_quantity_sold" : 505,
+		"total_revenue" : 1019657.001000
+	},
+	{
+		"ProductID" : 760,
+		"product_name" : "Road-650 Red, 60",
+		"total_quantity_sold" : 2232,
+		"total_revenue" : 1016529.018414
+	},
+	{
+		"ProductID" : 955,
+		"product_name" : "Touring-1000 Yellow, 50",
+		"total_quantity_sold" : 652,
+		"total_revenue" : 981187.849200
+	},
+	{
+		"ProductID" : 762,
+		"product_name" : "Road-650 Red, 44",
+		"total_quantity_sold" : 2254,
+		"total_revenue" : 943340.559788
+	},
+	{
+		"ProductID" : 799,
+		"product_name" : "Road-550-W Yellow, 42",
+		"total_quantity_sold" : 1249,
+		"total_revenue" : 932039.589000
+	},
+	{
+		"ProductID" : 748,
+		"product_name" : "HL Mountain Frame - Silver, 38",
+		"total_quantity_sold" : 1206,
+		"total_revenue" : 930780.680700
+	},
+	{
+		"ProductID" : 743,
+		"product_name" : "HL Mountain Frame - Black, 42",
+		"total_quantity_sold" : 1181,
+		"total_revenue" : 901590.233600
+	},
+	{
+		"ProductID" : 761,
+		"product_name" : "Road-650 Red, 62",
+		"total_quantity_sold" : 1896,
+		"total_revenue" : 879827.938243
+	},
+	{
+		"ProductID" : 763,
+		"product_name" : "Road-650 Red, 48",
+		"total_quantity_sold" : 1888,
+		"total_revenue" : 878666.663660
+	},
+	{
+		"ProductID" : 765,
+		"product_name" : "Road-650 Black, 58",
+		"total_quantity_sold" : 1871,
+		"total_revenue" : 869632.782451
+	},
+	{
+		"ProductID" : 972,
+		"product_name" : "Touring-2000 Blue, 54",
+		"total_quantity_sold" : 1010,
+		"total_revenue" : 772302.012300
+	},
+	{
+		"ProductID" : 968,
+		"product_name" : "Touring-1000 Blue, 54",
+		"total_quantity_sold" : 413,
+		"total_revenue" : 743353.026000
+	},
+	{
+		"ProductID" : 800,
+		"product_name" : "Road-550-W Yellow, 44",
+		"total_quantity_sold" : 927,
+		"total_revenue" : 717825.911500
+	},
+	{
+		"ProductID" : 975,
+		"product_name" : "Road-350-W Yellow, 44",
+		"total_quantity_sold" : 536,
+		"total_revenue" : 694003.920000
+	},
+	{
+		"ProductID" : 956,
+		"product_name" : "Touring-1000 Yellow, 54",
+		"total_quantity_sold" : 397,
+		"total_revenue" : 667158.148800
+	},
+	{
+		"ProductID" : 953,
+		"product_name" : "Touring-2000 Blue, 60",
+		"total_quantity_sold" : 820,
+		"total_revenue" : 635723.715900
+	},
+	{
+		"ProductID" : 758,
+		"product_name" : "Road-450 Red, 52",
+		"total_quantity_sold" : 710,
+		"total_revenue" : 621103.740000
+	},
+	{
+		"ProductID" : 998,
+		"product_name" : "Road-750 Black, 48",
+		"total_quantity_sold" : 1556,
+		"total_revenue" : 578174.312870
+	},
+	{
+		"ProductID" : 764,
+		"product_name" : "Road-650 Red, 52",
+		"total_quantity_sold" : 1112,
+		"total_revenue" : 523630.145800
+	},
+	{
+		"ProductID" : 766,
+		"product_name" : "Road-650 Black, 60",
+		"total_quantity_sold" : 1100,
+		"total_revenue" : 521898.261376
+	},
+	{
+		"ProductID" : 999,
+		"product_name" : "Road-750 Black, 52",
+		"total_quantity_sold" : 1338,
+		"total_revenue" : 515666.906436
+	},
+	{
+		"ProductID" : 768,
+		"product_name" : "Road-650 Black, 44",
+		"total_quantity_sold" : 1080,
+		"total_revenue" : 509245.008992
+	},
+	{
+		"ProductID" : 754,
+		"product_name" : "Road-450 Red, 58",
+		"total_quantity_sold" : 582,
+		"total_revenue" : 507978.295900
+	},
+	{
+		"ProductID" : 747,
+		"product_name" : "HL Mountain Frame - Black, 38",
+		"total_quantity_sold" : 659,
+		"total_revenue" : 501788.197700
+	},
+	{
+		"ProductID" : 786,
+		"product_name" : "Mountain-300 Black, 40",
+		"total_quantity_sold" : 776,
+		"total_revenue" : 501648.875060
+	},
+	{
+		"ProductID" : 742,
+		"product_name" : "HL Mountain Frame - Silver, 46",
+		"total_quantity_sold" : 649,
+		"total_revenue" : 499556.572400
+	},
+	{
+		"ProductID" : 835,
+		"product_name" : "ML Road Frame-W - Yellow, 44",
+		"total_quantity_sold" : 1435,
+		"total_revenue" : 485700.546949
+	},
+	{
+		"ProductID" : 787,
+		"product_name" : "Mountain-300 Black, 44",
+		"total_quantity_sold" : 747,
+		"total_revenue" : 484051.518000
+	},
+	{
+		"ProductID" : 788,
+		"product_name" : "Mountain-300 Black, 48",
+		"total_quantity_sold" : 740,
+		"total_revenue" : 479071.900108
+	},
+	{
+		"ProductID" : 785,
+		"product_name" : "Mountain-300 Black, 38",
+		"total_quantity_sold" : 684,
+		"total_revenue" : 442477.086952
+	},
+	{
+		"ProductID" : 970,
+		"product_name" : "Touring-2000 Blue, 46",
+		"total_quantity_sold" : 538,
+		"total_revenue" : 438867.478140
+	},
+	{
+		"ProductID" : 718,
+		"product_name" : "HL Road Frame - Red, 44",
+		"total_quantity_sold" : 486,
+		"total_revenue" : 395182.699300
+	},
+	{
+		"ProductID" : 717,
+		"product_name" : "HL Road Frame - Red, 62",
+		"total_quantity_sold" : 485,
+		"total_revenue" : 394255.572400
+	},
+	{
+		"ProductID" : 838,
+		"product_name" : "HL Road Frame - Black, 44",
+		"total_quantity_sold" : 459,
+		"total_revenue" : 375026.977200
+	},
+	{
+		"ProductID" : 977,
+		"product_name" : "Road-750 Black, 58",
+		"total_quantity_sold" : 892,
+		"total_revenue" : 361145.312000
+	},
+	{
+		"ProductID" : 961,
+		"product_name" : "Touring-3000 Yellow, 44",
+		"total_quantity_sold" : 851,
+		"total_revenue" : 358121.888775
+	},
+	{
+		"ProductID" : 965,
+		"product_name" : "Touring-3000 Yellow, 62",
+		"total_quantity_sold" : 844,
+		"total_revenue" : 351547.711410
+	},
+	{
+		"ProductID" : 979,
+		"product_name" : "Touring-3000 Blue, 50",
+		"total_quantity_sold" : 841,
+		"total_revenue" : 348581.503515
+	},
+	{
+		"ProductID" : 892,
+		"product_name" : "HL Touring Frame - Blue, 54",
+		"total_quantity_sold" : 542,
+		"total_revenue" : 324333.103309
+	},
+	{
+		"ProductID" : 981,
+		"product_name" : "Mountain-400-W Silver, 40",
+		"total_quantity_sold" : 617,
+		"total_revenue" : 323703.820668
+	},
+	{
+		"ProductID" : 889,
+		"product_name" : "HL Touring Frame - Yellow, 54",
+		"total_quantity_sold" : 540,
+		"total_revenue" : 323268.255972
+	},
+	{
+		"ProductID" : 767,
+		"product_name" : "Road-650 Black, 62",
+		"total_quantity_sold" : 644,
+		"total_revenue" : 312250.813900
+	},
+	{
+		"ProductID" : 769,
+		"product_name" : "Road-650 Black, 48",
+		"total_quantity_sold" : 644,
+		"total_revenue" : 310946.576200
+	},
+	{
+		"ProductID" : 755,
+		"product_name" : "Road-450 Red, 60",
+		"total_quantity_sold" : 350,
+		"total_revenue" : 306177.900000
+	},
+	{
+		"ProductID" : 759,
+		"product_name" : "Road-650 Red, 58",
+		"total_quantity_sold" : 618,
+		"total_revenue" : 304012.641100
+	},
+	{
+		"ProductID" : 822,
+		"product_name" : "ML Road Frame-W - Yellow, 38",
+		"total_quantity_sold" : 895,
+		"total_revenue" : 303330.841200
+	},
+	{
+		"ProductID" : 756,
+		"product_name" : "Road-450 Red, 44",
+		"total_quantity_sold" : 346,
+		"total_revenue" : 302678.724000
+	},
+	{
+		"ProductID" : 836,
+		"product_name" : "ML Road Frame-W - Yellow, 48",
+		"total_quantity_sold" : 889,
+		"total_revenue" : 301286.789100
+	},
+	{
+		"ProductID" : 738,
+		"product_name" : "LL Road Frame - Black, 52",
+		"total_quantity_sold" : 1581,
+		"total_revenue" : 299595.522966
+	},
+	{
+		"ProductID" : 962,
+		"product_name" : "Touring-3000 Yellow, 50",
+		"total_quantity_sold" : 686,
+		"total_revenue" : 291747.261750
+	},
+	{
+		"ProductID" : 997,
+		"product_name" : "Road-750 Black, 44",
+		"total_quantity_sold" : 656,
+		"total_revenue" : 290298.624000
+	},
+	{
+		"ProductID" : 958,
+		"product_name" : "Touring-3000 Blue, 54",
+		"total_quantity_sold" : 686,
+		"total_revenue" : 290075.118375
+	},
+	{
+		"ProductID" : 971,
+		"product_name" : "Touring-2000 Blue, 50",
+		"total_quantity_sold" : 322,
+		"total_revenue" : 286218.660000
+	},
+	{
+		"ProductID" : 739,
+		"product_name" : "HL Mountain Frame - Silver, 42",
+		"total_quantity_sold" : 347,
+		"total_revenue" : 269874.009600
+	},
+	{
+		"ProductID" : 980,
+		"product_name" : "Mountain-400-W Silver, 38",
+		"total_quantity_sold" : 425,
+		"total_revenue" : 241773.758000
+	},
+	{
+		"ProductID" : 876,
+		"product_name" : "Hitch Rack - 4-Bike",
+		"total_quantity_sold" : 3166,
+		"total_revenue" : 237096.156000
+	},
+	{
+		"ProductID" : 885,
+		"product_name" : "HL Touring Frame - Yellow, 60",
+		"total_quantity_sold" : 387,
+		"total_revenue" : 232378.260212
+	},
+	{
+		"ProductID" : 983,
+		"product_name" : "Mountain-400-W Silver, 46",
+		"total_quantity_sold" : 401,
+		"total_revenue" : 227347.667276
+	},
+	{
+		"ProductID" : 893,
+		"product_name" : "HL Touring Frame - Blue, 60",
+		"total_quantity_sold" : 371,
+		"total_revenue" : 221720.952434
+	},
+	{
+		"ProductID" : 982,
+		"product_name" : "Mountain-400-W Silver, 42",
+		"total_quantity_sold" : 385,
+		"total_revenue" : 217457.874000
+	},
+	{
+		"ProductID" : 959,
+		"product_name" : "Touring-3000 Blue, 58",
+		"total_quantity_sold" : 482,
+		"total_revenue" : 210946.176000
+	},
+	{
+		"ProductID" : 832,
+		"product_name" : "ML Mountain Frame - Black, 48",
+		"total_quantity_sold" : 959,
+		"total_revenue" : 200284.497760
+	}
+]

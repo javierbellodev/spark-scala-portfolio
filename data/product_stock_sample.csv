@@ -1,0 +1,101 @@
+"ProductID","ProductName","ProductNumber","Color","TotalStock"
+1,Adjustable Race,AR-5381,,1085
+3,BB Ball Bearing,BE-2349,,1352
+2,Bearing Ball,BA-8327,,1109
+316,Blade,BL-2036,,1361
+324,Chain Stays,CS-2812,,1629
+322,Chainring,CR-7833,Black,1684
+320,Chainring Bolts,CB-2903,Silver,1136
+321,Chainring Nut,CN-6137,Silver,1750
+505,Cone-Shaped Race,RA-7490,,970
+323,Crown Race,CR-9981,,1684
+504,Cup-Shaped Race,RA-2345,,1084
+325,Decal 1,DC-8732,,1750
+326,Decal 2,DC-9824,,1684
+327,Down Tube,DT-2377,,1364
+409,External Lock Washer 1,LE-6000,,1046
+411,External Lock Washer 2,LE-8000,,1614
+403,External Lock Washer 3,LE-1000,,981
+404,External Lock Washer 4,LE-1200,,972
+406,External Lock Washer 5,LE-1400,,952
+408,External Lock Washer 6,LE-5160,,1057
+407,External Lock Washer 7,LE-3800,,1672
+410,External Lock Washer 8,LE-7160,,1037
+405,External Lock Washer 9,LE-1201,,963
+341,Flat Washer 1,FW-1000,,1103
+343,Flat Washer 2,FW-1400,,1673
+346,Flat Washer 3,FW-5160,,1702
+345,Flat Washer 4,FW-3800,,936
+348,Flat Washer 5,FW-7160,,911
+342,Flat Washer 6,FW-1200,,1093
+349,Flat Washer 7,FW-9160,,926
+347,Flat Washer 8,FW-5800,,896
+344,Flat Washer 9,FW-3400,,1072
+350,Fork Crown,FC-3654,,1341
+331,Fork End,FE-3760,,1405
+332,Freewheel,FH-2981,Silver,844
+351,Front Derailleur Cage,FC-3982,Silver,605
+352,Front Derailleur Linkage,FL-2301,Silver,773
+355,Guide Pulley,GP-0982,,822
+398,Handlebar Tube,HT-2981,,1326
+399,Head Tube,HT-8019,,1308
+4,Headset Ball Bearings,BE-2908,,1322
+386,Hex Nut 1,HN-4402,,725
+387,Hex Nut 10,HN-5161,,1888
+388,Hex Nut 11,HN-5162,,798
+384,Hex Nut 12,HN-3816,,820
+385,Hex Nut 13,HN-3824,,1778
+393,Hex Nut 14,HN-7161,,1880
+394,Hex Nut 15,HN-7162,,911
+377,Hex Nut 16,HN-1213,,941
+378,Hex Nut 17,HN-1220,,926
+396,Hex Nut 18,HN-9161,,1824
+397,Hex Nut 19,HN-9168,,1652
+389,Hex Nut 2,HN-5400,,1808
+390,Hex Nut 20,HN-5811,,798
+391,Hex Nut 21,HN-5818,,809
+382,Hex Nut 22,HN-3410,,808
+383,Hex Nut 23,HN-3416,,1901
+392,Hex Nut 3,HN-6320,,818
+395,Hex Nut 4,HN-8320,,784
+375,Hex Nut 5,HN-1024,,925
+376,Hex Nut 6,HN-1032,,1781
+379,Hex Nut 7,HN-1224,,1911
+380,Hex Nut 8,HN-1420,,770
+381,Hex Nut 9,HN-1428,,789
+319,HL Crankarm,CA-7457,Black,797
+358,HL Grip Tape,GT-2908,,693
+401,HL Hub,HU-8998,,797
+509,HL Mountain Rim,RM-M823,,1247
+516,HL Mountain Seat Assembly,SA-M687,,807
+491,HL Nipple,NI-9522,,922
+512,HL Road Rim,RM-R800,,615
+519,HL Road Seat Assembly,SA-R522,,821
+526,HL Shell,SH-9312,,1211
+524,HL Spindle/Axle,SD-9872,,459
+522,HL Touring Seat Assembly,SA-T872,,836
+419,Internal Lock Washer 1,LI-6000,,914
+418,Internal Lock Washer 10,LI-5800,,919
+421,Internal Lock Washer 2,LI-8000,,905
+412,Internal Lock Washer 3,LI-1000,,776
+413,Internal Lock Washer 4,LI-1200,,1703
+415,Internal Lock Washer 5,LI-1400,,1104
+417,Internal Lock Washer 6,LI-5160,,1715
+416,Internal Lock Washer 7,LI-3800,,1090
+420,Internal Lock Washer 8,LI-7160,,909
+414,Internal Lock Washer 9,LI-1201,,1119
+402,Keyed Washer,KW-4091,,990
+317,LL Crankarm,CA-5965,Black,593
+356,LL Grip Tape,GT-0820,,780
+400,LL Hub,HU-6280,,790
+507,LL Mountain Rim,RM-M464,,1215
+514,LL Mountain Seat Assembly,SA-M198,,797
+490,LL Nipple,NI-4127,,1780
+510,LL Road Rim,RM-R436,,722
+517,LL Road Seat Assembly,SA-R127,,812
+525,LL Shell,SH-4562,,1263
+523,LL Spindle/Axle,SD-2342,,512
+520,LL Touring Seat Assembly,SA-T467,,826
+449,Lock Nut 1,LN-4400,,1560
+450,Lock Nut 10,LN-5161,,1546
+451,Lock Nut 11,LN-5162,,1556
